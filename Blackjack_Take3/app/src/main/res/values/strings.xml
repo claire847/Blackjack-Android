@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="blackjack_logo">Blackjack logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_player">New Player</string>
+    <string name="add_player">add player</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="_0_for_regular_player_1_for_admin">0 for regular player, 1 for admin</string>
+    <string name="enter_initial_purse_amount">Enter initial purse amount</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="emailP">EMAIL:</string>
+    <string name="cancel">Cancel</string>
+    <string name="cashP">CASH:</string>
+    <string name="adminP">ADMIN:</string>
+    <string name="last_nameP">LAST NAME:</string>
+    <string name="first_nameP">FIRST NAME:</string>
+    <string name="passwordP">PASSWORD:</string>
+    <string name="log_out">log out</string>
+    <string name="re_enter_password">Re-enter password:</string>
+    <string name="password_reg">PASSWORD:</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="register_new_player">register new player</string>
+    <string name="required">* Required</string>
+    <string name="play_blackjack">Play Blackjack!</string>
+    <string name="manage_account">Manage Account</string>
+</resources>
